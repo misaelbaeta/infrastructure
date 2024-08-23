@@ -1,0 +1,6 @@
+ec2/.terraform.lock.hcl
+ec2/.terraform/
+eks/.terraform.lock.hcl
+eks/.terraform/
+network/.terraform.lock.hcl
+network/.terraform/
